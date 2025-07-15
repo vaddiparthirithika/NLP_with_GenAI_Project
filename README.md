@@ -1,12 +1,12 @@
-#RAG-Based AI System for Medical Knowledge Retrieval – Merck Manual
+# RAG-Based AI System for Medical Knowledge Retrieval – Merck Manual
 
-##Problem Statement
+## Problem Statement
 
 In the rapidly evolving healthcare industry, professionals often face the challenge of **information overload**. Navigating massive volumes of medical data while making timely, life-critical decisions can be overwhelming. This project proposes a **Retrieval-Augmented Generation (RAG)** based AI system that uses the Merck Medical Manual to deliver **accurate, concise, and grounded responses** to medical queries.
 
 ---
 
-##Business Context
+## Business Context
 
 - Healthcare providers need **fast, reliable access** to diagnostic and treatment information.
 - Traditional methods of looking through manuals and research papers are **time-consuming** and **inefficient**, especially during emergencies.
@@ -32,7 +32,7 @@ Develop a prototype AI system that:
 
 ---
 
-##Technologies & Libraries Used
+## Technologies & Libraries Used
 
 - `PyMuPDF` – PDF text extraction
 - `sentence-transformers` – Embedding medical text
